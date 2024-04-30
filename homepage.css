@@ -1,7 +1,10 @@
 .mainbody{
     background-image: url(falloutfilter.jpg);
-    height:500vh;
-    background-repeat: no-repeat;
-    width: 500vh;
- 
-}
+background-size: cover;
+height: 100vh;
+width: auto;
+color: rgb(0, 255, 98);
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin: initial;
