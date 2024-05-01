@@ -8,3 +8,16 @@ display: flex;
 justify-content: center;
 flex-direction: column;
 margin: initial;
+}
+
+.resume{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.skills{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
